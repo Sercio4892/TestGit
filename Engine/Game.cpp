@@ -88,4 +88,7 @@ void Game::ComposeFrame()
 	//grid.DrawCell({ grid.GetWidth() - 1, 0}, Colors::White, Colors::Black);
 	//grid.DrawCell({ 0, grid.GetHeight() - 1 }, Colors::White, Colors::Black);
 	//grid.DrawCell({ grid.GetWidth() - 1, grid.GetHeight() - 1 }, Colors::White, Colors::Black);
+
+
+	// you know what I created a new branch and i'm going to push it to my github repo Test
 }
